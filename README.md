@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shahil2005
-- 👀 I’m interested in full stak develepment and gaming
+- 👀 I’m interested in full stack develepment and gaming
 - 🌱 I’m currently learning c programming and python along with html,CSS and javascript
 - 💞️ I’m looking to collaborate on some gaming sectors and some full stack developement areas
 - 📫 You can reach me in my LinkedIn profile-Shahil.B
