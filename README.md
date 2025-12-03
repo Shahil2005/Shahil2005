@@ -38,10 +38,10 @@
 <!-- Fun Footer -->
 <h2 align="center">🌟 Let's Connect!</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/shahil-b-3b9b342a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:basheershahil356@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
