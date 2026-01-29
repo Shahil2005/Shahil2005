@@ -23,11 +23,11 @@
 </p>
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shahil2005&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahil2005&theme=tokyonight" alt="GitHub streak" height="160"/>
-</p>
+</p> -->
 
 <!-- Animated Contribution Graph -->
 <!-- <h2 align="center">🔥 Contribution Graph</h2>
