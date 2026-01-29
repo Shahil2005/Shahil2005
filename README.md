@@ -30,10 +30,10 @@
 </p>
 
 <!-- Animated Contribution Graph -->
-<h2 align="center">🔥 Contribution Graph</h2>
+<!-- <h2 align="center">🔥 Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahil2005&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</p> -->
 
 <!-- Fun Footer -->
 <h2 align="center">🌟 Let's Connect!</h2>
