@@ -37,8 +37,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahil2005&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <br>
