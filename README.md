@@ -59,11 +59,7 @@ Full-stack movie streaming application built using the MERN Stack.
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shahil2005&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</div>
 
 <br>
 
